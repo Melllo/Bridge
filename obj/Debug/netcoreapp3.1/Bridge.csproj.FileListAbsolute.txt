@@ -1,0 +1,13 @@
+E:\C#\Bridge\obj\Debug\netcoreapp3.1\Bridge.AssemblyInfoInputs.cache
+E:\C#\Bridge\obj\Debug\netcoreapp3.1\Bridge.AssemblyInfo.cs
+E:\C#\Bridge\obj\Debug\netcoreapp3.1\Bridge.csproj.CoreCompileInputs.cache
+E:\C#\Bridge\bin\Debug\netcoreapp3.1\Bridge.exe
+E:\C#\Bridge\bin\Debug\netcoreapp3.1\Bridge.deps.json
+E:\C#\Bridge\bin\Debug\netcoreapp3.1\Bridge.runtimeconfig.json
+E:\C#\Bridge\bin\Debug\netcoreapp3.1\Bridge.runtimeconfig.dev.json
+E:\C#\Bridge\bin\Debug\netcoreapp3.1\Bridge.dll
+E:\C#\Bridge\bin\Debug\netcoreapp3.1\Bridge.pdb
+E:\C#\Bridge\obj\Debug\netcoreapp3.1\Bridge.dll
+E:\C#\Bridge\obj\Debug\netcoreapp3.1\Bridge.pdb
+E:\C#\Bridge\obj\Debug\netcoreapp3.1\Bridge.genruntimeconfig.cache
+E:\C#\Bridge\obj\Debug\netcoreapp3.1\Bridge.csprojAssemblyReference.cache
